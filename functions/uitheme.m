@@ -29,9 +29,9 @@ switch theme
         fontcolor = [0 0 0];
     case 'dark'
         color = [0.149 0.149 0.149];
-        fontcolor = [1 1 1];
+        fontcolor = [0.94 0.94 0.94];
     case 'light'
-        color = [1 1 1];
+        color = [0.94 0.94 0.94];
         fontcolor = [0.149 0.149 0.149];
     case 'success'
         color = [0.8314 0.9294 0.8549];
